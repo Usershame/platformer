@@ -2,7 +2,8 @@
     "name": "Platformer.",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
@@ -15,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.2.6",
+        "target": "1.2.9",
         "targetId": "arcade"
     },
     "supportedTargets": [
